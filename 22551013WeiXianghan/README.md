@@ -18,6 +18,9 @@ cmake --build build
 ```
 即可在build/Debug目录生成各个作业的可执行文件
 
+
+然后，在22551013WeiXianghan目录下执行：
+
 运行作业1
 ```
 ./build/Debug/colored_triangle.exe
@@ -26,6 +29,11 @@ cmake --build build
 运行作业2
 ```
 ./build/Debug/solar_system.exe
+```
+
+运行作业3
+```
+./build/Debug/model_loading.exe
 ```
 
 
